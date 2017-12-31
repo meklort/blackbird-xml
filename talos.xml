@@ -6699,7 +6699,7 @@
 	</attribute>
 	<attribute>
 		<id>OPAL_MODEL</id>
-		<default>ibm,romulus</default>
+		<default>rcs,talos</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_WOF_DISABLE</id>
@@ -7300,7 +7300,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_NAME</id>
-		<default>ROMULUS</default>
+		<default>TALOS</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_RESCLK_ENABLE</id>
@@ -7316,7 +7316,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_TYPE</id>
-		<default>ibm,romulus</default>
+		<default>rcs,talos</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_WOF_ENABLED</id>
