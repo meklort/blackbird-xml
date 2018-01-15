@@ -47153,7 +47153,7 @@
 	</attribute>
 	<attribute>
 		<id>RU_TYPE</id>
-		<default></default>
+		<default>FRU</default>
 	</attribute>
 	<attribute>
 		<id>SERIAL_NUMBER</id>
