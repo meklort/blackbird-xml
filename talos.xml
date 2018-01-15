@@ -4444,48 +4444,6 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7</id>
-	<property>
-	<id>CONNECTOR_TYPE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6</id>
-	<property>
-	<id>FRU_ID</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0</id>
-	<property>
-	<id>COOLING_ZONE_PROFILE</id>
-	<value>ALL</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0/FAN_COUNTER_ROTATING.pwm-0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0/FAN_COUNTER_ROTATING.tach-0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0/FAN_COUNTER_ROTATING.tach-1</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/planar-thermal-power-i2c-0/led_assoc_child</id>
 	<property>
 	<id>ASSOCIATION_TYPE</id>
@@ -7940,19 +7898,6 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>node-0/motherboard-0/bmc-0/chip-bmc-ast2500.pin_W2_gpion1_pwm1/chip-bmc-ast2500.pingroup_pwm1/chip-bmc-ast2500.PWM1 => planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0/FAN_COUNTER_ROTATING.pwm-0</bus_id>
-		<bus_type>PWM</bus_type>
-		<cable>no</cable>
-		<source_path>node-0/motherboard-0/bmc-0/chip-bmc-ast2500.pin_W2_gpion1_pwm1/chip-bmc-ast2500.pingroup_pwm1/</source_path>
-		<source_target>chip-bmc-ast2500.PWM1</source_target>
-		<dest_path>node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0/</dest_path>
-		<dest_target>FAN_COUNTER_ROTATING.pwm-0</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
 		<bus_id>node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-1/fan-0/FAN_COUNTER_ROTATING-0/FAN_COUNTER_ROTATING.tach-0 => planar-thermal-power-i2c-0/MAX31785-0/MAX31785.tach0</bus_id>
 		<bus_type>TACH</bus_type>
 		<cable>no</cable>
@@ -8025,19 +7970,6 @@
 		<source_target>FAN_COUNTER_ROTATING.tach-0</source_target>
 		<dest_path>node-0/motherboard-0/planar-thermal-power-i2c-0/MAX31785-0/</dest_path>
 		<dest_target>MAX31785.tach5</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0/FAN_COUNTER_ROTATING.tach-0 => bmc-0/chip-bmc-ast2500.pin_W6_gpiop6_tach14/chip-bmc-ast2500.pingroup_tach14/chip-bmc-ast2500.TACH14</bus_id>
-		<bus_type>TACH</bus_type>
-		<cable>no</cable>
-		<source_path>node-0/motherboard-0/planar-thermal-power-i2c-0/fanconn-7/fan-6/FAN_COUNTER_ROTATING-0/</source_path>
-		<source_target>FAN_COUNTER_ROTATING.tach-0</source_target>
-		<dest_path>node-0/motherboard-0/bmc-0/chip-bmc-ast2500.pin_W6_gpiop6_tach14/chip-bmc-ast2500.pingroup_tach14/</dest_path>
-		<dest_target>chip-bmc-ast2500.TACH14</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
@@ -130663,7 +130595,6 @@
 	<child_id>fanconn-4</child_id>
 	<child_id>fanconn-5</child_id>
 	<child_id>fanconn-6</child_id>
-	<child_id>fanconn-7</child_id>
 	<child_id>led_assoc_child</child_id>
 	<attribute>
 		<id>CARD_TYPE</id>
@@ -133075,91 +133006,6 @@
 	<attribute>
 		<id>POSITION</id>
 		<default>5</default>
-	</attribute>
-	<attribute>
-		<id>RU_TYPE</id>
-		<default>FRU</default>
-	</attribute>
-	<attribute>
-		<id>STANDBY_PLUGGABLE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>fanconn-7</id>
-	<type>connector-card-generic</type>
-	<is_root>false</is_root>
-	<instance_name>fanconn</instance_name>
-	<position>7</position>
-	<child_id>fan-6</child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CONNECTOR</default>
-	</attribute>
-	<attribute>
-		<id>CONNECTOR_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>7</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>fan-6</id>
-	<type>card-daughtercard</type>
-	<is_root>false</is_root>
-	<instance_name>fan</instance_name>
-	<position>6</position>
-	<child_id>FAN_COUNTER_ROTATING-0</child_id>
-	<child_id>led_assoc_child</child_id>
-	<attribute>
-		<id>CARD_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>6</default>
 	</attribute>
 	<attribute>
 		<id>RU_TYPE</id>
