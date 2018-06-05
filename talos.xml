@@ -2498,6 +2498,13 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/dimm_freq_sensor</id>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x0a</value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/fw_boot_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
