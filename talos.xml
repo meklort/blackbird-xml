@@ -6079,6 +6079,13 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/apss_fault_sensor</id>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x93</value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/os_boot_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
