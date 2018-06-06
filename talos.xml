@@ -6100,6 +6100,13 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/ps_redundancy_state_sensor</id>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x95</value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/os_boot_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
