@@ -4589,7 +4589,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq0/ex0/core0/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x5b</value>
+	<value>0xa0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4610,7 +4610,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq0/ex0/core1/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x5c</value>
+	<value>0xa1</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4631,7 +4631,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq0/ex1/core2/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x5d</value>
+	<value>0xa2</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4652,7 +4652,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq0/ex1/core3/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x5e</value>
+	<value>0xa3</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4673,7 +4673,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq1/ex2/core4/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x5f</value>
+	<value>0xa4</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4694,7 +4694,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq1/ex2/core5/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x60</value>
+	<value>0xa5</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4715,7 +4715,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq1/ex3/core6/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x61</value>
+	<value>0xa6</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4736,7 +4736,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq1/ex3/core7/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x62</value>
+	<value>0xa7</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4757,7 +4757,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq2/ex4/core8/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x63</value>
+	<value>0xa8</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4778,7 +4778,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq2/ex4/core9/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x64</value>
+	<value>0xa9</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4799,7 +4799,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq2/ex5/core10/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x65</value>
+	<value>0xaa</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4820,7 +4820,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq2/ex5/core11/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x66</value>
+	<value>0xab</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4841,7 +4841,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq3/ex6/core12/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x67</value>
+	<value>0xac</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4862,7 +4862,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq3/ex6/core13/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x68</value>
+	<value>0xad</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4883,7 +4883,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq3/ex7/core14/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x69</value>
+	<value>0xae</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4904,7 +4904,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq3/ex7/core15/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6a</value>
+	<value>0xaf</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4925,7 +4925,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq4/ex8/core16/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6b</value>
+	<value>0xb0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4946,7 +4946,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq4/ex8/core17/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6c</value>
+	<value>0xb1</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4967,7 +4967,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq4/ex9/core18/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6d</value>
+	<value>0xb2</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4988,7 +4988,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq4/ex9/core19/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6e</value>
+	<value>0xb3</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5009,7 +5009,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq5/ex10/core20/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6f</value>
+	<value>0xb4</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5030,7 +5030,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq5/ex10/core21/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x70</value>
+	<value>0xb5</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5051,7 +5051,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq5/ex11/core22/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x71</value>
+	<value>0xb6</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5072,7 +5072,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq5/ex11/core23/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x72</value>
+	<value>0xb7</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5370,7 +5370,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq0/ex0/core0/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x73</value>
+	<value>0xb8</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5391,7 +5391,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq0/ex0/core1/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x74</value>
+	<value>0xb9</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5412,7 +5412,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq0/ex1/core2/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x75</value>
+	<value>0xba</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5433,7 +5433,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq0/ex1/core3/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x76</value>
+	<value>0xbb</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5454,7 +5454,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq1/ex2/core4/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x77</value>
+	<value>0xbc</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5475,7 +5475,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq1/ex2/core5/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x78</value>
+	<value>0xbd</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5496,7 +5496,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq1/ex3/core6/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x79</value>
+	<value>0xbe</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5517,7 +5517,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq1/ex3/core7/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x7a</value>
+	<value>0xbf</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5538,7 +5538,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq2/ex4/core8/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x7b</value>
+	<value>0xc0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5559,7 +5559,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq2/ex4/core9/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x7c</value>
+	<value>0xc1</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5580,7 +5580,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq2/ex5/core10/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x7d</value>
+	<value>0xc2</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5601,7 +5601,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq2/ex5/core11/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x7e</value>
+	<value>0xc3</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5622,7 +5622,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq3/ex6/core12/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x7f</value>
+	<value>0xc4</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5643,7 +5643,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq3/ex6/core13/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x80</value>
+	<value>0xc5</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5664,7 +5664,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq3/ex7/core14/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x81</value>
+	<value>0xc6</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5685,7 +5685,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq3/ex7/core15/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x82</value>
+	<value>0xc7</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5706,7 +5706,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq4/ex8/core16/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x83</value>
+	<value>0xc8</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5727,7 +5727,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq4/ex8/core17/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x84</value>
+	<value>0xc9</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5748,7 +5748,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq4/ex9/core18/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x85</value>
+	<value>0xca</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5769,7 +5769,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq4/ex9/core19/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x86</value>
+	<value>0xcb</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5790,7 +5790,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq5/ex10/core20/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x87</value>
+	<value>0xcc</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5811,7 +5811,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq5/ex10/core21/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x88</value>
+	<value>0xcd</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5832,7 +5832,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq5/ex11/core22/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x89</value>
+	<value>0xce</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -5853,7 +5853,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_s/eq5/ex11/core23/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x8a</value>
+	<value>0xcf</value>
 	</property>
 </globalSetting>
 <globalSetting>
