@@ -10077,7 +10077,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FABRIC_CHIP_ID</id>
@@ -10292,7 +10292,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -12563,7 +12563,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -12713,7 +12713,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -13248,7 +13248,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -13413,7 +13413,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -13563,7 +13563,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -13705,7 +13705,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -14011,7 +14011,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -14161,7 +14161,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -14303,7 +14303,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -14468,7 +14468,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -14618,7 +14618,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -14760,7 +14760,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -15066,7 +15066,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -15216,7 +15216,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -15358,7 +15358,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -15523,7 +15523,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -15673,7 +15673,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -15815,7 +15815,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -16121,7 +16121,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -16271,7 +16271,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -16413,7 +16413,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -16578,7 +16578,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -16728,7 +16728,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -16870,7 +16870,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -17176,7 +17176,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -17326,7 +17326,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -17468,7 +17468,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -17633,7 +17633,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -17783,7 +17783,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -17925,7 +17925,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -18231,7 +18231,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -18381,7 +18381,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -18523,7 +18523,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -18688,7 +18688,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -18838,7 +18838,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -18980,7 +18980,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -46761,7 +46761,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FABRIC_CHIP_ID</id>
@@ -46976,7 +46976,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48077,7 +48077,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48181,7 +48181,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48285,7 +48285,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48389,7 +48389,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48493,7 +48493,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48597,7 +48597,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48701,7 +48701,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48805,7 +48805,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -48909,7 +48909,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -49013,7 +49013,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -49117,7 +49117,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -49221,7 +49221,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -49325,7 +49325,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -49429,7 +49429,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
@@ -49533,7 +49533,7 @@
 	</attribute>
 	<attribute>
 		<id>DECONFIG_GARDABLE</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FAPI_NAME</id>
