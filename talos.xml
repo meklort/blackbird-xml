@@ -132117,7 +132117,7 @@
 		<id>HWMON_FEATURE</id>
 		<default>
 				<field><id>HWMON_NAME</id><value>fan5</value></field>
-				<field><id>DESCRIPTIVE_NAME</id><value></value></field>
+				<field><id>DESCRIPTIVE_NAME</id><value>fan4</value></field>
 				<field><id>WARN_LOW</id><value></value></field>
 				<field><id>WARN_HIGH</id><value></value></field>
 				<field><id>CRIT_LOW</id><value></value></field>
@@ -132284,7 +132284,7 @@
 		<id>HWMON_FEATURE</id>
 		<default>
 				<field><id>HWMON_NAME</id><value>fan6</value></field>
-				<field><id>DESCRIPTIVE_NAME</id><value></value></field>
+				<field><id>DESCRIPTIVE_NAME</id><value>fan5</value></field>
 				<field><id>WARN_LOW</id><value></value></field>
 				<field><id>WARN_HIGH</id><value></value></field>
 				<field><id>CRIT_LOW</id><value></value></field>
