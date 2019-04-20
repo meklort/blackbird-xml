@@ -45291,6 +45291,10 @@
 		<default>I2C</default>
 	</attribute>
 	<attribute>
+		<id>CARD_TYPE</id>
+		<default>TPM</default>
+	</attribute>
+	<attribute>
 		<id>CHIPLET_ID</id>
 		<default>0xFF</default>
 	</attribute>
@@ -45367,7 +45371,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>TPM</default>
 	</attribute>
 	<attribute>
 		<id>ORDINAL_ID</id>
@@ -45396,7 +45400,7 @@
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
-		<default>NA</default>
+		<default>TPM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
