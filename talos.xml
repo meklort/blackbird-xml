@@ -31660,10 +31660,6 @@
 		<default></default>
 	</attribute>
 	<attribute>
-		<id>PEER_TARGET</id>
-		<default>NULL</default>
-	</attribute>
-	<attribute>
 		<id>PHYS_PATH</id>
 		<default></default>
 	</attribute>
@@ -31813,10 +31809,6 @@
 	<attribute>
 		<id>PARENT_PERVASIVE</id>
 		<default></default>
-	</attribute>
-	<attribute>
-		<id>PEER_TARGET</id>
-		<default>NULL</default>
 	</attribute>
 	<attribute>
 		<id>PHYS_PATH</id>
