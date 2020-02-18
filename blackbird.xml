@@ -128377,6 +128377,10 @@
 		<default>0xFF</default>
 	</attribute>
 	<attribute>
+		<id>MAX_POWER</id>
+		<default>0x4B</default>
+	</attribute>
+	<attribute>
 		<id>MODEL</id>
 		<default></default>
 	</attribute>
@@ -128666,6 +128670,10 @@
 	<attribute>
 		<id>IPMI_INSTANCE</id>
 		<default>0xFF</default>
+	</attribute>
+	<attribute>
+		<id>MAX_POWER</id>
+		<default>0x4B</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
