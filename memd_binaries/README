@@ -1,0 +1,5 @@
+This file is taken from the compiled Blackbird VPD binary.
+Source code for that binary (and by extension this one) is available in the blackbird-vpd GIT repository.
+
+This file is essentially snipped out of the master VPD file, and the snipped file is used to replace the equivalent on-planar VPD binary section at runtime.
+This mechanism allows updates to the memory VPD without requiring an external update of the planar VPD.

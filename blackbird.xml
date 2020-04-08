@@ -4634,7 +4634,7 @@
 	</attribute>
 	<attribute>
 		<id>MAX_ALLOWED_DIMM_FREQ</id>
-		<default>2400,2400,2400,2400,2400</default>
+		<default>2666,2666,2666,2400,2400</default>
 	</attribute>
 	<attribute>
 		<id>MAX_CHIPLETS_PER_PROC</id>
@@ -128377,6 +128377,10 @@
 		<default>0xFF</default>
 	</attribute>
 	<attribute>
+		<id>MAX_POWER</id>
+		<default>0x4B</default>
+	</attribute>
+	<attribute>
 		<id>MODEL</id>
 		<default></default>
 	</attribute>
@@ -128666,6 +128670,10 @@
 	<attribute>
 		<id>IPMI_INSTANCE</id>
 		<default>0xFF</default>
+	</attribute>
+	<attribute>
+		<id>MAX_POWER</id>
+		<default>0x4B</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
